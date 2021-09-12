@@ -1,7 +1,7 @@
 # 1a-1b. The total number of votes casted
 # 2a-2d. A complete list of candiates who received votes
 # 3a-3f. The percentage of votes each candiate won
-# 4. The total number of votes each candidate won
+# 4a-4b. The total number of votes each candidate won
 # 5. The winner of the election based on popular vote
 
     # To do: Perform analysis.
@@ -95,9 +95,7 @@ with open(file_to_load) as election_data:
     
 
 
-# 1. created variable before the file opens, read the file, skip the headers, create the loop to count for all rows and now print the votes
-# the total votes coutnt should be the number of rows in the file
-# 2. print the options of candidats we have
+
 
 
 
